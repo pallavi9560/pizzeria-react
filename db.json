@@ -1,0 +1,112 @@
+{
+  "item": [
+    {
+      "id": "1",
+      "image": "https://images.pexels.com/photos/6605220/pexels-photo-6605220.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Margarita",
+      "description": "Classic simplicity with fresh mozzarella, tomatoes, and basil.",
+      "dietarypreference": "Veg",
+      "size": "Regular,Large",
+      "toppings": "mozzarella,basil",
+      "price": "200/-",
+      "crust": "Classic Hand Tossed",
+      "extratoppings": "Customizable"
+    },
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1tULAaAFQiHwxxRASJgtv4_Cd76szr1pkOQ&s",
+      "name": "Newyork Style Pizza",
+      "description": " Thin, crispy crust topped with zesty sauce and generous cheese.",
+      "dietarypreference": "Customizable",
+      "size": "Large, Extra Large",
+      "toppings": "mozzarella, tomato sauce",
+      "price": "250/-",
+      "crust": "Thin and Crispy",
+      "extratoppings": "Customizable"
+    },
+    {
+      "id": "3",
+      "image": "https://media.istockphoto.com/id/171211152/photo/deep-dish-pizza.jpg?s=612x612&w=0&k=20&c=v14OIvcvOCvzpYjHEMBJnjSUfw5F6cLzwgshyZL93bU=",
+      "name": "Deep Dish Pizza",
+      "description": " Chicago's finest - a thick, buttery crust filled with layers of deliciousness.",
+      "dietarypreference": "Customizable",
+      "size": "Regular,Large",
+      "toppings": "mozzarella, tomato sauce",
+      "price": "300/-",
+      "crust": "Thick and Buttery",
+      "extratoppings": "Customizable"
+    },
+    {
+      "id": "4",
+      "image": "https://media.istockphoto.com/id/1181651561/photo/oven-baked-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=YFV0_FvKZgm4g-LLBrOomNgFZSkMn6BQO9Tsxbx_xmk=",
+      "name": "Pepperoni Pizza",
+      "description": "Crispy, savory circles of spiced perfection on a sea of melted cheese.",
+      "dietarypreference": "Non-Veg",
+      "size": "Regular,Large",
+      "toppings": "mozzarella, pepperoni",
+      "price": "250/-",
+      "crust": "Thick and Thin Available",
+      "extratoppings": "Customizable"
+    },
+    {
+      "image": "https://media.istockphoto.com/id/1349383878/photo/hawaiian-pizza-with-ham-and-pineapple.webp?b=1&s=170667a&w=0&k=20&c=bH0TioIFbnhTf_CMw8l8qUfGgeRk425Q8L9EhlMQO5M=",
+      "name": "Hawaiian Pizza",
+      "description": " A tropical delight with ham and pineapple on a bed of cheese.",
+      "dietarypreference": "Customizable",
+      "size": "Regular,Large",
+      "toppings": "mozzarella,ham,pineapple",
+      "price": 220,
+      "crust": "Classic Hand Tossed",
+      "extratoppings": "Customizable",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "image": "https://www.allrecipes.com/thmb/ee0daLeNNIUcrKbm5nxwFXheMDM=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/AR-24878-bbq-chicken-pizza-beauty-4x3-39cd80585ad04941914dca4bd82eae3d.jpg",
+      "name": "Chicken Pizza",
+      "description": "Tender chicken pieces nestled on a cheesy canvas of flavors.",
+      "dietarypreference": "Veg",
+      "size": "Regular,Large",
+      "toppings": "mozzarella,grill chicken",
+      "price": "240/-",
+      "crust": "Thin and Thick are Available",
+      "extratoppings": "Customizable"
+    },
+    {
+      "id": "7",
+      "image": "https://media.istockphoto.com/id/489809469/photo/bbq-chicken-pizza.jpg?s=612x612&w=0&k=20&c=kB3xRU4-A7fJ9iYpIzlOqSiLX4f6OIath45yFOmqjxQ=",
+      "name": "Minced Meat Pizza",
+      "description": "Savory ground chicken spread evenly for a meaty, satisfying bite.",
+      "dietarypreference": "Non-Veg",
+      "size": "Regular,Large",
+      "toppings": "mozzarella,minced chicken",
+      "price": "230/-",
+      "crust": "Thin and Thick are Available",
+      "extratoppings": "Customizable"
+    },
+    {
+      "id": "8",
+      "image": "https://media.istockphoto.com/id/1270326723/photo/work-of-my-hands.jpg?s=612x612&w=0&k=20&c=96Y0OLAgBFbaK6GtW43ogDiFpY_16R71AZ2UGWVzr70=",
+      "name": "Veggie Pizza",
+      "description": "A garden-fresh medley of colorful vegetables on a crisp crust.",
+      "dietarypreference": "Veg",
+      "size": "Regular,Large",
+      "toppings": "mozzarella, bell peppers, onions, olives, mushrooms",
+      "price": "200/-",
+      "crust": "Thin and Thick are Available",
+      "extratoppings": "Customizable"
+    },
+    {
+      "id": "9",
+      "image": "https://media.istockphoto.com/id/1341905666/photo/chinese-food-veg-pizza.jpg?s=612x612&w=0&k=20&c=ZMNxcRhL9uGV8zebXg5wGCh-5GzVBRHsu-lz7Sc06V4=",
+      "name": "Panner Pizza",
+      "description": "Creamy cubes of Indian cottage cheese with a spicy twist.",
+      "dietarypreference": "Veg",
+      "size": "Regular,Large",
+      "toppings": "mozzarella, paneer, bell peppers, onions",
+      "price": "210/-",
+      "crust": "Thin and Thick are Available",
+      "extratoppings": "Customizable"
+    }
+  ]
+}
